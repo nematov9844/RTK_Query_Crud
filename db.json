@@ -1,1 +1,28 @@
-{}
+{
+	"posts": [
+		{
+			"id": 1,
+			"title": "Learning RTK Query",
+			"body": "RTK Query makes data fetching in React apps efficient and easy to use.",
+			"userId": 1
+		},
+		{
+			"id": 2,
+			"title": "Understanding Redux Toolkit",
+			"body": "Redux Toolkit simplifies state management and reduces boilerplate code.",
+			"userId": 2
+		},
+		{
+			"id": 3,
+			"title": "Introduction to Vite",
+			"body": "Vite is a fast build tool that improves the development experience.",
+			"userId": 3
+		},
+		{
+			"id": 4,
+			"title": "Using Tailwind CSS",
+			"body": "Tailwind CSS allows for rapid UI development with utility-first classes.",
+			"userId": 1
+		}
+	]
+}
